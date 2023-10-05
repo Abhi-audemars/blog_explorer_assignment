@@ -1,16 +1,10 @@
 # blog_explorer
 
-A new Flutter project.
+An app to explore blogs 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+->flutter clean
+->flutter pub get (to get all thedependencies)
+->flutter run (to run app on emulator or connected device)
+->flutter build apk (build apk to test in various devices)
